@@ -25,6 +25,11 @@ stitch-mcp tool list_projects
 
 Should return 3 projects: Terminal, English Metropolis, News Site.
 
+**Status (2026-03-22 21:41 UTC):**
+- **Shadow (VPS):** ✅ Verified working
+- **Bob:** ✅ MCP installed, API key configured, verification pending (slow connection)
+- **Lucy:** ⏸️ SSH unreachable — manual setup required
+
 ## 4. Clone This Repo
 
 ```bash
